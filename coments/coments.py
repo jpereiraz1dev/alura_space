@@ -3,7 +3,7 @@
 
 #! eh preciso inserir cada app nas settings do setup
 
-#* Para carregar arquivos estaticos, precisa incluir essas configuracoes nas settings 
+#  Para carregar arquivos estaticos, precisa incluir essas configuracoes nas settings 
 '''
 -- STATICFILES_DIRS = [
     os.path.join(BASE_DIR, 'setup/static')
